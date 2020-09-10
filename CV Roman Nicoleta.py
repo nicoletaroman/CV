@@ -1,0 +1,8 @@
+print("nume:Roman Nicoleta")
+print("data si locul nasterii: 07.04.2004 or.Balti Republica Moldova")
+print("adresa: str.Decebal 162")
+print("nr.de tel.:068816571")
+print("educatia:IPLT Mihai Eminescu")
+print("experienta de munca: voluntariat America House")
+print("limbi straine:engleza,franceza")
+print("abilitati:lucru in echipa,abilitati de lider,abilitati in matematica")
